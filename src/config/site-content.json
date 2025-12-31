@@ -30,9 +30,13 @@
 		{
 			"id": "a46372ff45bc5524",
 			"url": "/images/art/a46372ff45bc5524.jpg"
+		},
+		{
+			"id": "fd9086f78b75717b",
+			"url": "/images/art/fd9086f78b75717b.PNG"
 		}
 	],
-	"currentArtImageId": "a46372ff45bc5524",
+	"currentArtImageId": "fd9086f78b75717b",
 	"backgroundImages": [
 		{
 			"id": "",
@@ -47,13 +51,6 @@
 			"value": "https://github.com/yingshen-hk",
 			"label": "Github",
 			"order": 1
-		},
-		{
-			"id": "email",
-			"type": "email",
-			"value": "1654201@qq.com",
-			"label": "",
-			"order": 2
 		},
 		{
 			"id": "button-1766055971759",
