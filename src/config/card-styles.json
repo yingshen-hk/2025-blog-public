@@ -37,8 +37,8 @@
 		"height": 66,
 		"offset": 120,
 		"order": 6,
-		"offsetX": 230,
-		"offsetY": 265,
+		"offsetX": 229,
+		"offsetY": 241,
 		"enabled": true
 	},
 	"socialButtons": {
@@ -53,16 +53,16 @@
 		"width": 200,
 		"height": 180,
 		"order": 7,
-		"offsetX": null,
-		"offsetY": null,
+		"offsetX": 253,
+		"offsetY": 315,
 		"enabled": true
 	},
 	"articleCard": {
 		"width": 266,
 		"height": 160,
 		"order": 8,
-		"offsetX": -494,
-		"offsetY": 183,
+		"offsetX": -493,
+		"offsetY": 158,
 		"enabled": true
 	},
 	"writeButtons": {
