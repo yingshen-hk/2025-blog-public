@@ -33,7 +33,7 @@
 			"优武",
 			"义武"
 		],
-		"stars": 3
+		"stars": 5
 	},
 	{
 		"name": "最终幻想XIV中文维基",
@@ -96,17 +96,17 @@
 			"零式通关",
 			"阿卡狄亚"
 		],
-		"stars": 3
+		"stars": 5
 	},
 	{
 		"name": "光之泥头车时间发布站",
-		"logo": "blob:https://www.four.pw/ff27a0f0-2bbd-4e5e-bf4e-4041a0ab3ea3",
+		"logo": "/images/share/e7e95d5106aff7b6.png",
 		"url": "https://www.ffxivhunt.cn/",
 		"description": "国服每个大区的狩猎时间表",
 		"tags": [
 			"狩猎"
 		],
-		"stars": 3
+		"stars": 5
 	},
 	{
 		"name": "石之家 -《最终幻想14》官方社区",
