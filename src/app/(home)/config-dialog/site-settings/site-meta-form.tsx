@@ -42,7 +42,7 @@ export function SiteMetaForm({ formData, setFormData }: SiteMetaFormProps) {
 				/>
 			</div>
 			<div>
-				<label className='mb-2 block text-sm font-medium'>简介><label>
+				<label className='mb-2 block text-sm font-medium'>简介</label>
 				<textarea
 					value={formData.meta.Introduction}
 					onChange={e => setFormData({ ...formData, meta: { ...formData.meta, Introduction: e.target.value } })}
