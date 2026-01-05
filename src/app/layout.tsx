@@ -24,7 +24,7 @@ export const metadata: Metadata = {
 }
 
 const htmlStyle = {
-	cursor: 'url(/images/cursor.svg) 2 1, auto',
+	cursor: 'url(https://cdn.jsdelivr.net/gh/yingshen-hk/cdn@master/Mousestyle_Furina/STMC%20Genshin%20Furina%2001%20Pointer.cur),url(https://cdn.jsdelivr.net/gh/yingshen-hk/cdn@master/Mousestyle_Furina/STMC%20Genshin%20Furina%2006%20Beam.cur) 2 1, auto',
 	'--color-brand': theme.colorBrand,
 	'--color-primary': theme.colorPrimary,
 	'--color-secondary': theme.colorSecondary,
